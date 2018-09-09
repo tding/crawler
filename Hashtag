@@ -1,0 +1,310 @@
+"Murder8"
+"Apache"
+"ChinaGirl", #66084
+"ChinaWhite", #18718
+"DanceFever", #26825
+"Friend", #43042599
+"Goodfella", #279331
+"Jackpot", #347429
+"TNT", #766944
+"TangoCash", #117
+"GreatBear", #6004
+"ChinaTown", #2,178,345
+"HeMan", #184,296
+"KingIvory", #38
+"morphine",#57,942
+"heroin",#119,553 
+"propofol",#3,785
+"versed",#1,452
+"midazolam",
+"opiates",
+"opiate",
+"opioid",
+"dilaudid",
+"oxycodone",
+"oxycontin",
+"oxy",
+"MDMA",
+"percocet",#29771
+"xanax",#
+"ecstacy",#25463
+"lidocaine",#4393
+"adderall",#37980
+"Hydrocodone",
+"RoxyCodone",#8964
+"Molly",#1493267
+"Norcos",#22157 
+"ketamine",#22688
+"opiate", #12,174
+"oxycodone", #40883
+"fentanyl",
+"chronicpain",
+ "drugs",
+ "pain",
+ "surgery",
+ "hospital",
+ "chronicpain",
+ "chronicillness",
+ "anesthesia",
+ "overdose",
+ starting:m
+m:621
+starting:whitelady
+whitelady:57
+starting:saltandsugar
+saltandsugar:57
+starting:missemma
+missemma:57
+starting:misterblue
+misterblue:45
+starting:morpho
+morpho:57
+starting:dreamer
+dreamer:57
+mscontin is not enought to load.
+starting:mscontin
+mscontin:13
+starting:unkie
+unkie:57
+starting:whitestuff
+whitestuff:57
+m.s. is not enought to load.
+starting:m.s.
+m.s.:0
+starting:hows
+hows:57
+starting:goddrug
+goddrug:26
+starting:emsel
+emsel:57
+starting:diprivan
+diprivan:45
+starting:addiction
+addiction:57
+starting:painkillers
+painkillers:57
+starting:spoonie
+spoonie:57
+starting:recovery
+recovery:57
+starting:dust
+dust:57
+starting:juice
+juice:57
+starting:smack
+smack:57
+starting:d
+d:57
+starting:footballs
+footballs:57
+starting:dilly
+dilly:57
+starting:dill
+dill:57
+starting:dillies
+dillies:57
+starting:bigd
+bigd:57
+starting:hydro
+hydro:57
+starting:super8
+super8:57
+starting:m2
+m2:57
+starting:m80s
+m80s:57
+hospitalheroin is not enought to load.
+starting:hospitalheroin
+hospitalheroin:11
+mooseandwhitetriangles is not enought to load.
+starting:mooseandwhitetriangles
+mooseandwhitetriangles:0
+ is not enought to load.
+starting:
+:0
+starting:vancouver
+vancouver:57
+starting:h
+h:57
+starting:junk
+junk:57
+starting:bigh
+bigh:57
+starting:helldust
+helldust:57
+starting:nosedrops
+nosedrops:57
+starting:thunder
+thunder:57
+starting:brownsugar
+brownsugar:57
+starting:browncrystal
+browncrystal:56
+starting:horse
+horse:57
+starting:skag
+skag:57
+starting:scag
+scag:57
+starting:dope
+dope:57
+starting:mud
+mud:57
+mexicanmud is not enought to load.
+starting:mexicanmud
+mexicanmud:11
+starting:blacktar
+blacktar:57
+starting:blackpearl
+blackpearl:57
+starting:witchhazel
+witchhazel:57
+birdiepowder is not enought to load.
+starting:birdiepowder
+birdiepowder:3
+starting:dragon
+dragon:57
+starting:hero
+hero:57
+starting:boy
+boy:57
+starting:he
+he:57
+starting:chiva
+chiva:57
+starting:chiba
+chiba:57
+mexiconhorse is not enought to load.
+starting:mexiconhorse
+mexiconhorse:0
+starting:pluto
+pluto:57
+starting:skunk
+skunk:57
+starting:number2
+number2:57
+starting:nod
+nod:57
+starting:tar
+tar:57
+starting:snowball
+snowball:57
+starting:whiteboy
+whiteboy:57
+whitegirl is not enought to load.
+starting:whitegirl
+whitegirl:36
+starting:whitehorse
+whitehorse:57
+starting:blackeagle
+blackeagle:57
+starting:browntape
+browntape:57
+brownrhine is not enought to load.
+starting:brownrhine
+brownrhine:0
+starting:snow
+snow:57
+starting:scat
+scat:57
+starting:sack
+sack:57
+starting:number3
+number3:57
+starting:number4
+number4:57
+starting:number8
+number8:57
+starting:death
+death:57
+oxycet is not enought to load.
+starting:oxycet
+oxycet:2
+starting:oxycotton
+oxycotton:57
+starting:hillbillyheroin
+hillbillyheroin:57
+starting:percs
+percs:57
+starting:oc
+oc:57
+starting:o
+o:57
+starting:totton
+totton:57
+starting:pills
+pills:57
+starting:kickers
+kickers:57
+oxytotton is not enought to load.
+starting:oxytotton
+oxytotton:0
+starting:ox
+ox:57
+starting:ocs
+ocs:57
+starting:orangecounty
+orangecounty:57
+starting:os
+os:57
+starting:oxys
+oxys:57
+starting:killers
+killers:57
+beans.rushbo is not enought to load.
+starting:beans.rushbo
+beans.rushbo:0
+starting:20s
+20s:57
+starting:40s
+40s:57
+starting:80s
+80s:57
+starting:iv
+iv:57
+starting:painpatch
+painpatch:57
+starting:analgesia
+analgesia:57
+starting:prince
+prince:57
+starting:epidural
+epidural:57
+starting:ecstasy
+ecstasy:57
+starting:adam
+adam:57
+starting:clarity
+clarity:57
+starting:eve
+eve:57
+starting:loversspeed
+loversspeed:24
+starting:peace
+peace:57
+starting:uppers
+uppers:57
+starting:cadillac
+cadillac:57
+starting:beans
+beans:57
+starting:californiasunrise
+californiasunrise:57
+starting:e
+e:57
+starting:essence
+essence:57
+starting:elephants
+elephants:57
+starting:hug
+hug:57
+starting:hugdrug
+hugdrug:30
+starting:lovedrug
+lovedrug:57
+starting:lovepill
+lovepill:57
+starting:roll
+roll:57
+starting:scoobysnacks
+scoobysnacks:57
